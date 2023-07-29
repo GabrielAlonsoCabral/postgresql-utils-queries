@@ -9,5 +9,5 @@ Feel free to explore and use these queries in your projects. If you find any iss
 To use these queries, you need to have PostgreSQL installed and a database to run the queries against. You can either copy the queries directly from this repository or clone the entire repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/postgresql-utils-queries.git
+git clone https://github.com/GabrielAlonsoCabral/postgresql-utils-queries.git
 ```
